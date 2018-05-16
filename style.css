@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+}
+
+div {
+    width: 100vw;
+}
+
+.jumbotron-text-center {
+    color: grey;
+}
+
+.logo {
+    text-align: center;
+    padding-left: 50px;
+}
+
+.col-sm-1 {
+    padding-top: 20px;
+}
+
+.button {
+    color: white;
+    background-color: rgb(61, 127, 224);
+    border-color: rgb(61, 127, 224);
+    border-radius: 15px;
+    font-size: 12px;
+    padding-left: 17px;
+    padding-right: 17px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.col-sm-12 {
+    background-image: url(https://i.pinimg.com/originals/f4/2c/04/f42c0419c06e7cb033fdbabaaf2993a2.jpg);
+    background-position: center center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.mission {
+    padding-top: 400px;
+    color: white;
+    text-align: center;
+    text-shadow: 3px 2px black;
+}
+
+.lorip {
+    color: white;
+    text-align: center;
+    padding-bottom: 75px;
+    text-shadow: 2px 1px black;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.about {
+    text-align: center;
+    color: rgb(52, 131, 184);
+    padding-top: 20px;
+}
+
+.about1 {
+    color: rgb(52, 131, 184);
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.team {
+    background-color: rgb(52, 131, 184);
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
+
+.face {
+    display: inline;
+    padding: 30px;
+}
+
+img {
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.nametag {
+    text-align: center;
+}
+
+@media screen and (min-width: 1200px) {
+
+}
+@media screen and (max-width: 1200px) {
+
+}
+@media screen and (max-width: 992px) {
+
+}
+@media screen and (max-width: 768px) {
+
+}
+@media screen and (max-width: 767px) {
+
+}
+@media screen and (max-width: 480px) {
+    background-color: blueviolet;
+}
+
